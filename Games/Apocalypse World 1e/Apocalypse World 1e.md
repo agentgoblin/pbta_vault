@@ -4,6 +4,6 @@
 [[!(AW1) Moves]]
 [[!(AW1) Archetypes]]
 
-Переводы с Террасы https://tesera.ru/game/Apocalypse-World/files 
+https://lumpley.games/apocalypseworld/
 
-#Undone - В процессе наполнения
+Переводы с Террасы https://tesera.ru/game/Apocalypse-World/files 
