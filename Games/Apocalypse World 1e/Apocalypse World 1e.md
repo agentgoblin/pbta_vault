@@ -1,0 +1,9 @@
+#AW1 #Games #Preface 
+
+Пост апокалипсис
+[[!(AW1) Moves]]
+[[!(AW1) Archetypes]]
+
+https://lumpley.games/apocalypseworld/
+
+Переводы с Террасы https://tesera.ru/game/Apocalypse-World/files 
