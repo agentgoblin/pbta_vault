@@ -15,4 +15,4 @@ jobs:
           username: ${{ secrets.USER }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            cd html
+            cd /var/www/use6gurps/data/www/pbta.su/
