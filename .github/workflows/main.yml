@@ -15,4 +15,6 @@ jobs:
           username: ${{ secrets.USER }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            cd /var/www/use6gurps/data/www/pbta.su/
+            cd /var/www/use6gurps/data/www/pbta.su/vault/src/
+            git clone https://github.com/Crazyviny/pbta_vault.git
+            
