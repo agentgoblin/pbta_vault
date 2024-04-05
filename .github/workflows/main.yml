@@ -14,6 +14,7 @@ jobs:
           host: ${{ secrets.SERVER }}
           username: ${{ secrets.USER }}
           password: ${{ secrets.PASSWORD }}
+          port: 822
           script: |
             cd /var/www/use6gurps/data/www/pbta.su/vault/src/
             git pull
