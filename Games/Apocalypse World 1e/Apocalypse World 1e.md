@@ -7,4 +7,4 @@
 
 https://lumpley.games/apocalypseworld/
 
-Переводы с Террасы https://tesera.ru/game/Apocalypse-World/files 
+Переводы взяты с "Террасы" https://tesera.ru/game/Apocalypse-World/files 
