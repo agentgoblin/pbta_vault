@@ -2,7 +2,7 @@
 
 #Preface #Games #MH2 
 
-
+#todo
 
 [[!(MH2) Archetypes]]
 [[!(MH2) Moves]]
