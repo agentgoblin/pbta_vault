@@ -5,5 +5,6 @@
 
 [[!(SCUP) Archetypes]]
 [[!(SCUP) Moves]]
+[[!(SCUP) GM]]
 
 Перевод ходов взял из паблика Заметки на полях рулбуков (https://vk.com/iaaoyrpg). Спасибо автору!
