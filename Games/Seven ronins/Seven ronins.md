@@ -8,3 +8,4 @@
 
 [[!(7R) Movies]]
 [[!(7R) Archetypes]]
+[[!(7R) GM]]
