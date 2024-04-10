@@ -1,4 +1,4 @@
-#MH2 #Basic #Curse 
+#MH2 #Basic #Curse #Weird 
 
 ### **Заглянуть в бездну** 
 
