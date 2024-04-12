@@ -1,4 +1,4 @@
-#MW #Archetypes
+#MW #Archetypes #Investigator #Man-of-Honor #Hacker 
 
 ## Сыщик
 
