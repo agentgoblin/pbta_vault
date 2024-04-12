@@ -1,6 +1,6 @@
 ### **Лира**
 
-#SCUP #Archetypes 
+#SCUP #Archetypes #Artist #Manipulator #Oracle #Sexy 
 ### **Страсть**
 
 

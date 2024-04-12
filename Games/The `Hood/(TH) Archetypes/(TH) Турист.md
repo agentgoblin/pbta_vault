@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Wealthy 
 
 ## Турист
 ***жизнь простого народа***

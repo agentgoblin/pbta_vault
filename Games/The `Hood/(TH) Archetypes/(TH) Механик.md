@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Technic #Thief #Driver 
 
 ## Механик
 ***стальные нервы***

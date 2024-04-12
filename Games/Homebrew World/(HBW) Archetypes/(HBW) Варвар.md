@@ -1,6 +1,6 @@
 ## **Варвар**
 
-#HBW #Archetypes 
+#HBW #Archetypes #Figher 
 ### **Мотивация**
 
 #### **Презрение** 

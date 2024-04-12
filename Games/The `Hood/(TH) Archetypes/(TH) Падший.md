@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Official
 
 ## Падший
 ***хороший коп, плохой коп***

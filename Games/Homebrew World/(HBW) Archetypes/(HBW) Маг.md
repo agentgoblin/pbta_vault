@@ -1,6 +1,6 @@
 ## **Маг**
 
-#HBW #Archetypes 
+#HBW #Archetypes #Mage
 ### **Мотивация**
 
 #### **Любопытство** 

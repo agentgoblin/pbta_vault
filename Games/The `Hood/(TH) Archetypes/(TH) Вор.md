@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Thief 
 
 ## Вор
 ***все твое - мое***

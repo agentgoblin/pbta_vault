@@ -1,4 +1,4 @@
-#MW #Archetypes
+#MW #Archetypes #Familiar #Manipulator 
 
 ## Параромантик
 

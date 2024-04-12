@@ -1,6 +1,6 @@
 ## **Рейнджер**
 
-#HBW #Archetypes
+#HBW #Archetypes #Figher #Familiar 
 ### **Мотивация**
 
 #### **Милосердие** 

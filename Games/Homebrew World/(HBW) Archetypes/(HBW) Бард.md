@@ -1,6 +1,6 @@
 ### **Бард**
 
-#HBW #Archetypes
+#HBW #Archetypes #Artist #Celebrity #Mage
 ### **Мотивация**
 
 #### **Cлава** 
