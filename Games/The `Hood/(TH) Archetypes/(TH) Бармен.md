@@ -1,4 +1,4 @@
-#TH #Archetypes #Fixer
+#TH #Archetypes #Fixer #Celebrity 
 
 ## Бармен
 ***выбирай любимую отраву***

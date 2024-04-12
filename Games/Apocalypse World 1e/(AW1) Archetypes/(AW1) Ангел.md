@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Healer 
+#AW1 #Archetypes #Healer #Lab 
 
 ## Ангел
 

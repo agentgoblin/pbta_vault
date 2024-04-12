@@ -1,4 +1,4 @@
-#TH #Archetypes #Fixer 
+#TH #Archetypes #Fixer #Manipulator 
 
 ## Пресс
 ***оказывая давление***

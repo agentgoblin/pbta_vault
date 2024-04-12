@@ -1,4 +1,4 @@
-#TH #Archetypes #Healer 
+#TH #Archetypes #Healer #Civilian 
 
 ## Лепила
 ***доктора вызывали?***

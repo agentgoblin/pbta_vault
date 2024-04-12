@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Celebrity #Artist #Sexy
+#AW1 #Archetypes #Celebrity #Artist #Sexy #Manipulator
 
 ## Артист
 

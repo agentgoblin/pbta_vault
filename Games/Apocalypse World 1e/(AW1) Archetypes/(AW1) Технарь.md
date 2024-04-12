@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Technic 
+#AW1 #Archetypes #Technic #Lab 
 
 ## Технарь
 

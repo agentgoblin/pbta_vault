@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Leader 
+#AW1 #Archetypes #Leader #Ganger
 
 ## Чоппер
 

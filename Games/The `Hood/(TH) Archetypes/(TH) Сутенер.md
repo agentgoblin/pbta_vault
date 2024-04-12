@@ -1,4 +1,4 @@
-#TH #Archetypes #Fixer #Sexy 
+#TH #Archetypes #Fixer #Sexy #Manipulator 
 
 ## Сутенер
 ***жизнь легкого поведения***
