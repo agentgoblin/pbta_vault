@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Young
 
 ## Бунтарь
 ***новый парень на раёне***

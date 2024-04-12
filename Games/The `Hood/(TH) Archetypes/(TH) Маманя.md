@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Leader #Civilian 
 
 ## Маманя
 ***это касается только семьи***

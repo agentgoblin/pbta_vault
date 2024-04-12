@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Celebrity #Artist 
 
 ## Голос
 ***искусство требует жертв***

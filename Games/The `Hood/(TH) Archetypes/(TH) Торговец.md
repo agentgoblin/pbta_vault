@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Fixer 
 
 ## Торговец
 ***Че почем?***

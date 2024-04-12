@@ -1,4 +1,4 @@
-#TH #Archetypes 
+#TH #Archetypes #Fixer #Spy
 
 ## Радар
 ***тсс! Слышал?***
