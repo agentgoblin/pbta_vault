@@ -1,4 +1,4 @@
-#US1 #Archetypes
+#US1 #Archetypes #Supernatural #Manipulator #Spy #Lab 
 
 ## Бессмертный
 
