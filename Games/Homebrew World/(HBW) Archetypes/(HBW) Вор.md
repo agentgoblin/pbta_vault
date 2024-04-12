@@ -1,6 +1,6 @@
 ## **Вор**
 
-#HBW #Archetypes 
+#HBW #Archetypes #Thief #Asasin #Spy
 ### **Мотивация**
 
 #### **Неповиновение** 

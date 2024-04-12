@@ -1,6 +1,6 @@
 ## **Друид**
 
-#HBW #Archetypes 
+#HBW #Archetypes #Shapeshifter #Ghoster #Animalism 
 ### **Мотивация**
 
 #### **Культивация** 
