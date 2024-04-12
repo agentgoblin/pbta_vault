@@ -1,4 +1,4 @@
-#TH #Archetypes #Fixer #Мerchant
+#TH #Archetypes #Fixer #Merchant
 
 ## Барыга
 ***пурпурная дымка***
