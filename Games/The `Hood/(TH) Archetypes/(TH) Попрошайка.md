@@ -1,4 +1,4 @@
-#TH #Archetypes #Poor
+#TH #Archetypes #Poor #Dependent
 
 ## Попрошайка
 ***по уши в долгах***
