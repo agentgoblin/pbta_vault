@@ -1,6 +1,6 @@
+#MH2 #Archetypes #Manipulator #Ganger #Sexy #Supernatural 
 ## **Королева**
 
-#MH2 #Archetypes #Manipulator #Ganger #Sexy #Supernatural 
 ### **Преамбула**
 
 *Такие как ты - особенные. В тебе есть властная красота. Ты заслуживаешь большего, чем весь этот жалкий мир. Ты заслуживаешь обожания и поклонения окружающих. 
