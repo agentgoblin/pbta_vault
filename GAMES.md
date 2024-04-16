@@ -1,6 +1,6 @@
 [[Теги для поиска]]
 
-# **PbtA-like игры
+# PbtA-like игры
 
 | Название                | Жанр                              | Теги                      | Ссылки                                                                                                                                                                                 |
 | ----------------------- | --------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +9,8 @@
 | Dungeon World           | Классическое фэнтези.             | #Fantasy #DW              | [Dungeon World PDF – Indigo Games](https://indigogames.ru/product/dw-pdf/)                                                                                                             |
 | [[Homebrew World]]      | Классическое фэнтези.             | #Fantasy #HBW             |                                                                                                                                                                                        |
 | [[Humanity Zero]]       | Киберпанк, научная фантастика.    | #Cyberpunk  #Sci_fi #H0   | [Telegram: Contact @humanity\_zero](https://t.me/humanity_zero)                                                                                                                        |
-| [[Monster of the Week]] |                                   | #MW                       | <br>[Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)                                                                                       |
+| [[Masks]]               | Супергероика                      | #MA #Superheroes          | [Сайт издания](https://magpiegames.com/pages/masks)                                                                                                                                    |
+| [[Monster of the Week]] | Охотники на Сверхестественное     | #MW                       | <br>[Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)                                                                                       |
 | Monsterhearts 1e        | Городская подростковая мистика.   | #Urban_fantasy #MH1       |                                                                                                                                                                                        |
 | [[Monsterhearts 2e]]    | Городская подростковая мистика.   | #Urban_fantasy #MH2       | [Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)                                                                                           |
 | Schattenreich           | Средневековое фэнтези.            | #Fantasy #SR              | [Telegram: Contact @humanity\_zero](https://t.me/humanity_zero)                                                                                                                        |
