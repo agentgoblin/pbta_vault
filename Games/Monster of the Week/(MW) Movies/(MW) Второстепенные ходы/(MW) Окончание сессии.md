@@ -1,4 +1,4 @@
-#MW #Moves #Sessin #Improvement 
+#MW #Moves #Session #Improvement 
 
 ### Окончание сессии
 

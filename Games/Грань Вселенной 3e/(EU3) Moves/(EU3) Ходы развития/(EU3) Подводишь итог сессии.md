@@ -1,4 +1,4 @@
-#EU3 #Moves #Improvement #Sessin 
+#EU3 #Moves #Improvement #Session 
 
 ### Подводишь итог сессии 
 
