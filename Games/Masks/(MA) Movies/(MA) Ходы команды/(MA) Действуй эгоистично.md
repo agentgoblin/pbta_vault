@@ -1,4 +1,4 @@
-#MA #Moves ??? #need-tag
+#MA #Moves #Situation #Meta_currency
 
 ### Действуй эгоистично
 

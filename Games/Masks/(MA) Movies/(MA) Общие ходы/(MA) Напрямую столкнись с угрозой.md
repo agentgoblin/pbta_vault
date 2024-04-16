@@ -1,4 +1,4 @@
-#MA #Moves #Basic #need-tag
+#MA #Moves #Basic #Battle 
 
 ### Напрямую столкнись с угрозой
 

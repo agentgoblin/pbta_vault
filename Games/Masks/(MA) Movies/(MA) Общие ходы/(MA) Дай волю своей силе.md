@@ -1,4 +1,4 @@
-#MA #Moves #Basic #need-tag
+#MA #Moves #Basic #DD
 
 ### Дай волю своей силе
 

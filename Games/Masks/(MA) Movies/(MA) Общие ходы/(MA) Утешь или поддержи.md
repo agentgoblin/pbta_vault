@@ -1,4 +1,4 @@
-#MA #Moves #Basic #need-tag
+#MA #Moves #Basic #Heal #Meta_currency 
 
 ### Утешь или поддержи
 

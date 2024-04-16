@@ -1,4 +1,4 @@
-#MA #Moves #Basic #need-tag
+#MA #Moves #Basic #Defense #Meta_currency 
 
 ### Защити кого-то
 

@@ -1,4 +1,4 @@
-#MA #Moves #Situation #need-tag
+#MA #Moves #Situation #Drama #Defense 
 
 ### Отвергни влияние
 
