@@ -1,4 +1,4 @@
-#CA1 #Moves #Basic  
+#CA #Moves #Basic  
 
 [[(CA) Отмазаться]]
 [[(CA) Предложить сделку]]
