@@ -10,6 +10,6 @@
 [Seven ronins](https://rpgbook.ru/Seven_ronins)
 Автор: [Telegram: Contact @humanity\_zero](https://t.me/humanity_zero)
 
-[[!(7R) Movies]]
+[[!(7R) Moves]]
 [[!(7R) Archetypes]]
 [[!(7R) GM]]

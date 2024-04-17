@@ -14,5 +14,5 @@
 
 **Перевод буклетов: Ланк**
 
-[[!(MA) Movies]]
+[[!(MA) Moves]]
 [[!(MA) Archetypes]]

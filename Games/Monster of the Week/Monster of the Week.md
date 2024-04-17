@@ -8,6 +8,6 @@
 
 
 
-[[!(MW) Movies]]
+[[!(MW) Moves]]
 [[!(MW) Archetypes]]
 [[!(MW) GM]]
