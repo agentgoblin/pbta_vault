@@ -22,3 +22,6 @@
 | [[Urban Shadows 1e]]    | Городское фэнтези                 | #Urban_fantasy #US1       | [Urban Shadows (1st Ed.) - Magpie Games \| Urban Shadows \| DriveThruRPG](https://preview.drivethrurpg.com/en/product/153464/Urban-Shadows-1st-Ed)                                     |
 | Urban Shadows 2e        | Городское фэнтези                 | #Urban_fantasy #US2       | [Urban Shadows: Second Edition by Magpie Games — Kickstarter](https://www.kickstarter.com/projects/magpiegames/urban-shadows-second-edition)                                           |
 | [[Грань Вселенной 3e]]  | Космоопера                        | #Sci-fi #EU3              | http://eotvrpg.ru/                                                                                                                                                                     |
+
+## Смотри так-же
+[Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit#gid=0)
