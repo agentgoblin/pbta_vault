@@ -1,6 +1,6 @@
 #CA #Archetypes #Spy #Fixer 
 
-## Бклоснежка
+## Белоснежка
 **El Guero**
 
 ### Ключи
