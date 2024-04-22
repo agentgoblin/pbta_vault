@@ -1,4 +1,4 @@
-#AW1 #GM #GM_moves #GM_tasks #GM_principle 
+#AW1 #GM
 
 
 [[(AW1) Замысел]]

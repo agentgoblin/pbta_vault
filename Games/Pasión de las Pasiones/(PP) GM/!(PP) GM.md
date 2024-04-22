@@ -1,4 +1,4 @@
-#PP #GM #GM_moves #GM_tasks #GM_principle 
+#PP #GM 
 
 [[(PP) Замыслы]]
 [[(PP) Принципы]]

@@ -1,4 +1,4 @@
-#EU3 #GM #GM_moves #GM_tasks #GM_principle 
+#EU3 #GM 
 
 
 [[(EU3) Цели]]

@@ -1,4 +1,4 @@
-#US1 #GM_moves #GM_tasks #GM_principle 
+#US1 #GM
 
 [[(US1) Цели]]
 [[(US1) Принципы]]

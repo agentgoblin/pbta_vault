@@ -1,4 +1,4 @@
-#SR #GM #GM_moves #GM_tasks #GM_principle 
+#SR #GM #GM_tasks
 
 ## **Шпаргалка для Летописца:
 

@@ -1,4 +1,4 @@
-#7R #GM_moves #GM_tasks #GM_principle 
+#7R #GM
 
 ### Как быстро начать игру:
 

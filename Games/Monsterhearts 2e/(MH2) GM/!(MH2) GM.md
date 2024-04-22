@@ -1,4 +1,4 @@
-#MH2 #GM #GM_moves #GM_tasks #GM_principle 
+#MH2 #GM #GM_tasks
 
 ## **Лист мастера:**
 

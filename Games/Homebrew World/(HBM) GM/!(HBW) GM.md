@@ -1,4 +1,4 @@
-#HBW #GM #GM_moves #GM_tasks #GM_principle 
+#HBW #GM #GM_tasks 
 
 ## **Шпаргалка для ведущего:**
 

@@ -1,4 +1,4 @@
-#MW #GM #GM_moves #GM_tasks #GM_principle 
+#MW #GM #GM_tasks 
 
 ### Повестка Хранителя
 - Заставь мир казаться реальным
