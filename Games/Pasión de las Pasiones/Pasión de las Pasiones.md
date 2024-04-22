@@ -5,9 +5,9 @@
 
 Ваша задача как игроков — отнестись с любовью к сценарным штампам этого жанра и позволить им расцвести в вашем повествовании.
 
-
 [Pasión de las Pasiones](https://preview.drivethrurpg.com/en/product/409558?affiliate_id=948609)
 [Обзор от Алисы Раченко](https://rpg-news.ru/2024/04/20/pasion-de-las-pasiones-obzor-ot-alisy-rachenko/)
+
 
 ## Особенности гейм дизайна
 *Заметные отличия от Apocalypse World*
