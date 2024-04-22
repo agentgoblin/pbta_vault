@@ -1,7 +1,7 @@
 - Тэги #Bonds  расставить, чем отличаются от #Drama ?
+- #Flashback не походит ли еще куда?
 
 
 Список на прасниг:
-- Пасьон ("Pasion de las Pasiones Quickstart (RUS).pdf" )
 - Поцелуй вампира  https://fedorombra.itch.io/kissofthevampire
 - Публичного доступа раздатки вроде бесплатно на станции лежат
