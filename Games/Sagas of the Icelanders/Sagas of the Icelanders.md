@@ -2,3 +2,6 @@
 
 #todo 
 
+[[!(SOI) Moves]]
+[[!(SOI) Archetypes]]
+[[!(SOI) GM]]
