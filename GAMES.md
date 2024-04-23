@@ -24,4 +24,4 @@
 | [[Грань Вселенной 3e]]     | Космоопера                        | #Sci-fi #EU3              | http://eotvrpg.ru/                                                                                                                                                                     |
 
 ## Смотри так-же
-[Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit#gid=0)
+[Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit)
