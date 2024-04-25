@@ -1,3 +1,3 @@
-#SOI #Moves #Basic #Drama #Money 
+#SOI #Moves #Basic #Bonds #Money 
 
 Когда ты приносишь кому-то **дар**, ты завязываешь **узы** с ним.

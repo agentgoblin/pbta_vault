@@ -1,4 +1,4 @@
-#EU3 #Moves #Basic #Help #Interfere #Drama 
+#EU3 #Moves #Basic #Help #Interfere #Bonds 
 ### Оказываешься рядом
 
 Когда ты **помогаешь кому-то (или мешаешь)**, действуй: 

@@ -1,4 +1,3 @@
-- Тэги #Bonds  расставить, чем отличаются от #Drama ?
 - Геймдизайн для:
   - Cartel, (нет на русском)
   - Masks, 
@@ -6,6 +5,7 @@
   - Monsterhearts
   - Pasion
   - SCUP
+
 
 Список на прасниг:
 - Поцелуй вампира  https://fedorombra.itch.io/kissofthevampire

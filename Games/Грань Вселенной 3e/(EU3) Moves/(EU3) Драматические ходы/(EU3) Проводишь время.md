@@ -1,4 +1,4 @@
-#EU3 #Moves #Situation #Heal #Staff_moves #Drama #Money
+#EU3 #Moves #Situation #Heal #Staff_moves #Bonds  #Money
 
 ### Проводишь время
 
