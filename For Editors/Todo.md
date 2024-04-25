@@ -6,7 +6,6 @@
   - Monsterhearts
   - Pasion
   - SCUP
-  - Urban Shadows
 
 Список на прасниг:
 - Поцелуй вампира  https://fedorombra.itch.io/kissofthevampire
