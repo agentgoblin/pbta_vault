@@ -1,9 +1,7 @@
 - Геймдизайн для:
-  - Cartel, (нет на русском)
   - Masks, 
-  - Monster of
+  - Monster of the week
   - Monsterhearts
-  - Pasion
   - SCUP
 
 
