@@ -1,7 +1,5 @@
 - Геймдизайн для:
-  - Masks, 
-  - Monster of the week
-  - Monsterhearts
+  - Monsterhearts 2e
   - SCUP
 
 
