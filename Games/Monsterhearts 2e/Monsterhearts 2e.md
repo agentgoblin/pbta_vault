@@ -1,6 +1,6 @@
 ## **Что это такое?**
 
-#Preface #Games #MH2 #Urban_fantasy #Тeen_drama
+#Preface #Games #MH2 #Urban_fantasy #Teen_drama
 
 Настольная ролевая игра в жанре подростковой сверхъестественной романтики, созданная Эвери Альдер 
 
