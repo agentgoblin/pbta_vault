@@ -1,4 +1,4 @@
-#AW2  #Games #Preface
+#AW2  #Games #Preface #Post_apocalypse
 
 Тут содержатся **только** небольшие **модификации** которые внесены во 2й редакции
 **Основные правила** 1й редакции: [[Apocalypse World 1e]]
