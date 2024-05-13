@@ -21,7 +21,6 @@
 | Street dogs                 | Сейнен, городское фэнтези.                   | #SD #Anime #Urban_fantasy       |
 | [[The `Hood]]               | Городской криминал, современность            | #TH #Criminal                   |
 | [[Urban Shadows 1e]]        | Городское фэнтези                            | #US1 #Urban_fantasy             |
-| Urban Shadows 2e            | Городское фэнтези                            | #US2 #Urban_fantasy             |
 | [[Грань Вселенной 3e]]      | Космоопера                                   | #EU3 #Sci-fi                    |
 
 ## Смотри так-же
