@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Ghoster #Healer #Spy
+#MH2 #Archetypes #Supernatural #Ghoster #Healer #Spy #Pariah 
 ## **Призрак**
 
 ### **Преамбула**

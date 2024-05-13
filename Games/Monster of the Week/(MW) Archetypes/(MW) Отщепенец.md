@@ -1,4 +1,4 @@
-#MW #Archetypes #Supernatural #Telepath #Mage #Ghoster #Oracle #Thelecinetic 
+#MW #Archetypes #Supernatural #Telepath #Mage #Ghoster #Oracle #Thelecinetic #Pariah 
 
 ## Отщепенец
 *Я могу делать то, что недоступно обычным людям. Но за это приходится платить — пока не за всё, но счёт скоро придет. Не стоит вскрывать эту тему. Если ты зайдёшь слишком далеко, ты пострадаешь.*

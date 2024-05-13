@@ -1,4 +1,4 @@
-#MA #Moves #Situation #Drama #Defense 
+#MA #Moves #Situation #Drama #Defense #Bonds
 
 ### Отвергни влияние
 

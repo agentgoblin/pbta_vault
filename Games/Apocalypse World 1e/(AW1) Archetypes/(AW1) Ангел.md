@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Healer #Lab 
+#AW1 #Archetypes #Healer #Lab #Proprietor
 
 ## Ангел
 

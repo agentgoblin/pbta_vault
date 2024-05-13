@@ -1,4 +1,4 @@
-#CA #GM #GM_moves #GM_tasks #GM_principle 
+#CA #GM 
 
 
 [[(CA) Цели]]

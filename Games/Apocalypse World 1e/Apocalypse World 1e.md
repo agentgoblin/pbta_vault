@@ -1,4 +1,4 @@
-#AW1 #Games #Preface 
+#AW1 #Games #Preface #Post_apocalypse
 
 Пост апокалипсис
 [[!(AW1) Moves]]
