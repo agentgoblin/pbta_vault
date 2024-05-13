@@ -2,27 +2,27 @@
 
 # PbtA-like игры
 
-| Название                    | Жанр                              | Теги                            | Ссылки                                                                                                                                                                                 |
-| --------------------------- | --------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Apocalypse World 1e]]     | Пост-апокалипсис.                 | #Post_apocalypse #AW1           | [Apocalypse World – lumpley games](https://lumpley.games/apocalypseworld/)                                                                                                             |
-| [[Apocalypse World 2e]]     | Пост-апокалипсис.                 | #Post_apocalypse #AW2           | [Apocalypse World – lumpley games](https://lumpley.games/apocalypseworld/)                                                                                                             |
-| [[Cartel]]                  | Криминал. Современность.          | #Criminal #CA                   | [Сайт издания](https://magpiegames.com/pages/cartel)                                                                                                                                   |
-| Dungeon World               | Классическое фэнтези.             | #Fantasy #DW                    | [Dungeon World PDF – Indigo Games](https://indigogames.ru/product/dw-pdf/)                                                                                                             |
-| [[Homebrew World]]          | Классическое фэнтези.             | #Fantasy #HBW                   |                                                                                                                                                                                        |
-| [[Horror Movie World]]      |                                   | #HMW #Oneshot                   | [Horror Movie World на Станции Ролевой](https://rpgbook.ru/HMW)                                                                                                                        |
-| [[Humanity Zero]]           | Киберпанк, научная фантастика.    | #Cyberpunk  #Sci_fi #H0         | [Telegram: Contact @humanity\_zero](https://t.me/humanity_zero)                                                                                                                        |
-| [[Masks]]                   | Супергероика                      | #MA #Superheroes #Teen_drama    | [Сайт издания](https://magpiegames.com/pages/masks)                                                                                                                                    |
-| [[Monster of the Week]]     | Охотники на Сверхестественное     | #MW #Oneshot                    | <br>[Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)                                                                                       |
-| [[Monsterhearts 2e]]        | Городская подростковая мистика.   | #Urban_fantasy #Teen_drama #MH2 | [Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)                                                                                           |
-| [[Pasion de las Pasiones]]  | Мыльная опера                     | #Soap_opera #PP                 | [Pasión de las Pasiones](https://preview.drivethrurpg.com/en/product/409558?affiliate_id=948609)                                                                                       |
-| [[Sagas of the Icelanders]] | Историческое, быт                 | #Historical #SOI                | [Sagas of the Icelanders - drivethrurpg](https://preview.drivethrurpg.com/en/product/254224/Sagas-of-the-Icelanders)                                                                   |
-| [[SCUP]]                    | Средневековое фэнтези.            | #Fantasy #SCUP                  | [The Sword, The Crown, and The Unspeakable Power - Wheel Tree Press \| DriveThruRPG](https://preview.drivethrurpg.com/en/product/239692/The-Sword-The-Crown-and-The-Unspeakable-Power) |
-| [[Seven ronins]]            | Роад-муви, средневековая Япония.  | #Anime #Road_movie #7R          | [Seven ronins](https://rpgbook.ru/Seven_ronins)                                                                                                                                        |
-| Street dogs                 | Сейнен, городское фэнтези.        | #Anime #Urban_fantasy #SD       | [Street dogs by Major\_Blaskowitz](https://major-blaskowitz.itch.io/street-dogs)                                                                                                       |
-| [[The `Hood]]               | Городской криминал, современность | #Criminal #TH                   | [На раёне  - Литрес](https://www.litres.ru/book/dzheyms-allen/na-raene-18151333/chitat-onlayn/)                                                                                        |
-| [[Urban Shadows 1e]]        | Городское фэнтези                 | #Urban_fantasy #US1             | [Urban Shadows (1st Ed.) - Magpie Games \| Urban Shadows \| DriveThruRPG](https://preview.drivethrurpg.com/en/product/153464/Urban-Shadows-1st-Ed)                                     |
-| Urban Shadows 2e            | Городское фэнтези                 | #Urban_fantasy #US2             | [Urban Shadows: Second Edition by Magpie Games — Kickstarter](https://www.kickstarter.com/projects/magpiegames/urban-shadows-second-edition)                                           |
-| [[Грань Вселенной 3e]]      | Космоопера                        | #Sci-fi #EU3                    | http://eotvrpg.ru/                                                                                                                                                                     |
+| Название                    | Жанр                              | Теги                            |
+| --------------------------- | --------------------------------- | ------------------------------- |
+| [[Apocalypse World 1e]]     | Пост-апокалипсис.                 | #AW1 #Post_apocalypse           |
+| [[Apocalypse World 2e]]     | Пост-апокалипсис.                 | #AW2 #Post_apocalypse           |
+| [[Cartel]]                  | Криминал. Современность.          | #CA #Criminal                   |
+| Dungeon World               | Классическое фэнтези.             | #DW #Fantasy                    |
+| [[Homebrew World]]          | Классическое фэнтези.             | #HBW #Fantasy                   |
+| [[Horror Movie World]]      |                                   | #HMW #Oneshot                   |
+| [[Humanity Zero]]           | Киберпанк, научная фантастика.    | #H0 #Cyberpunk  #Sci_fi         |
+| [[Masks]]                   | Супергероика                      | #MA #Superheroes #Teen_drama    |
+| [[Monster of the Week]]     | Охотники на Сверхестественное     | #MW #Oneshot                    |
+| [[Monsterhearts 2e]]        | Городская подростковая мистика.   | #MH2 #Urban_fantasy #Teen_drama |
+| [[Pasion de las Pasiones]]  | Мыльная опера                     | #PP #Soap_opera                 |
+| [[Sagas of the Icelanders]] | Историческое, быт                 | #SOI #Historical                |
+| [[SCUP]]                    | Средневековое фэнтези.            | #SCUP #Fantasy                  |
+| [[Seven ronins]]            | Роад-муви, средневековая Япония.  | #7R #Anime #Road_movie          |
+| Street dogs                 | Сейнен, городское фэнтези.        | #SD #Anime #Urban_fantasy       |
+| [[The `Hood]]               | Городской криминал, современность | #TH #Criminal                   |
+| [[Urban Shadows 1e]]        | Городское фэнтези                 | #US1 #Urban_fantasy             |
+| Urban Shadows 2e            | Городское фэнтези                 | #US2 #Urban_fantasy             |
+| [[Грань Вселенной 3e]]      | Космоопера                        | #EU3 #Sci-fi                    |
 
 ## Смотри так-же
 [Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit)
