@@ -15,5 +15,4 @@
 #### **Как связаться?**
 Спрашивайте тут:
 https://t.me/PoweredByTheApocalypse
-
-t
+<br>
