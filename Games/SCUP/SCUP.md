@@ -7,6 +7,8 @@
 [[!(SCUP) Moves]]
 [[!(SCUP) GM]]
 
+[The Sword, The Crown, and The Unspeakable Power - Wheel Tree Press \| DriveThruRPG](https://preview.drivethrurpg.com/en/product/239692/The-Sword-The-Crown-and-The-Unspeakable-Power)
+
 Перевод ходов взял из паблика Заметки на полях рулбуков (https://vk.com/iaaoyrpg). Спасибо автору!
 
 ## Особенности гейм дизайна
