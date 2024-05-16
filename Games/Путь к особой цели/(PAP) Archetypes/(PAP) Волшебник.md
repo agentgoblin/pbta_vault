@@ -1,4 +1,4 @@
-#PAP  #Archetypes #need-tag 
+#PAP  #Archetypes #Mage #Demonic #Necromant 
 
 ## Волшебник
 

@@ -1,4 +1,4 @@
-#PAP  #Archetypes #need-tag 
+#PAP  #Archetypes #Religion #Man-of-Honor #Avenger #Demonic #Mage 
 
 ## Жрец
 

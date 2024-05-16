@@ -1,4 +1,4 @@
-#PAP  #Archetypes #need-tag 
+#PAP  #Archetypes #Figher #Man-of-Honor #Familiar #Wealthy 
 
 ## Рыцарь
 
