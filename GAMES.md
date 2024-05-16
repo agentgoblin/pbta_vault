@@ -23,6 +23,7 @@
 | [[The `Hood]]               | Городской криминал, современность            | #TH #Criminal                   |
 | [[Urban Shadows 1e]]        | Городское фэнтези                            | #US1 #Urban_fantasy             |
 | [[Грань Вселенной 3e]]      | Космоопера                                   | #EU3 #Sci-fi                    |
+| [[Путь к особой цели]]      | Классическое фэнтези.                        | #PAP  #Fantasy                  |
 
 ## Смотри так-же
 [Большая таблица с русскоязычными Pbta](https://docs.google.com/spreadsheets/d/1YcUKNyM_m6SVVek65giyBSm5zjThc6mhHUFl6MWAgZU/edit)
