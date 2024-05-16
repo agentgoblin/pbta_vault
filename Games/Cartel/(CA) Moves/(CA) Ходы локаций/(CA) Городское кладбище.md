@@ -1,4 +1,4 @@
-#CA #Moves #Custome_Move
+#CA #Moves #Custom_move
 
 ### PANTEON MUNICIPAL
 *Día de muertos – праздник для всех жителей Мексики. В конце концов, la muerte приходит к каждому из нас: богатому, бедному, хорошему или плохому. Sin excepciones.*
