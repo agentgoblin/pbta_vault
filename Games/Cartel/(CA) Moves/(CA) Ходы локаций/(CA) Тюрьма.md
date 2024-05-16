@@ -1,4 +1,4 @@
-#CA #Moves #Custome_Move
+#CA #Moves #Custom_move
 
 ### CERESO
 *CERESO – это аббревиатура от Centro de Rehabilitación Social – Центр социальной реабилитации, но это все чушь собачья. Никто не хочет видеть, как старые narcos исправятся; их скорее просто запрут в клетках и выбросят все ключи.*

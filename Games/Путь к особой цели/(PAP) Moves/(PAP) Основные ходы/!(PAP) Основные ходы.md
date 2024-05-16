@@ -1,4 +1,4 @@
-#PAP #Movie #Basic 
+#PAP #Moves #Basic 
 
 [[(PAP) Сразись с кем-то]]
 [[(PAP) Дай залп]]

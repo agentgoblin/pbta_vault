@@ -1,4 +1,4 @@
-#PAP #Movie #Situation #Talks #Bonds 
+#PAP #Moves #Situation #Talks #Bonds 
 
 Если могущественный союзник готов предложить свою помощь, действуй **Благородно.** 
 На 10+ получи запас 2. 

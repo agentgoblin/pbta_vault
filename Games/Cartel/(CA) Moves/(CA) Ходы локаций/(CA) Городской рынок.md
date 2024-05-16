@@ -1,4 +1,4 @@
-#CA #Moves #Custome_Move
+#CA #Moves #Custom_move
 
 ### MERCADO MUNICIPAL
 *Mercado Municipal – это настоящий карнавал красок и ароматов. Товары, продукты, целебные травы, еда и fayuca. Все дешево, специально для тощих карманов обывателей.*

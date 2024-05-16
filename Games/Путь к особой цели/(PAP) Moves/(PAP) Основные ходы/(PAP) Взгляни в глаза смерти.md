@@ -1,4 +1,4 @@
-#PAP #Movie #Basic #Wound #Armor 
+#PAP #Moves #Basic #Wound #Armor 
 
 Получив урон, действуй +**Непреклонно**. 
 На 10+ все не так плохо, опиши последствия. 

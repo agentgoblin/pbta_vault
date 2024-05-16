@@ -1,4 +1,4 @@
-#CA #Moves #Custome_Move
+#CA #Moves #Custom_move
 
 ### PRESIDENCIA MUNICIPAL
 *Средоточие власти и сердце коррупции в la ciudad. Dos caras de la misma moneda. Те немногие благородные люди, которые действительно хотят творить добро, быстро превращаются здесь в гиен... или съедаются ими.*
