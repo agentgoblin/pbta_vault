@@ -1,4 +1,4 @@
-#PAP #Movie #Situation #Session #Improvement 
+#PAP #Moves #Situation #Session #Improvement 
 
 В конце игровой сессии выполни все следующие действия: 
 1. Получи 1 опыт, если на этой сессии следовал своему побуждению. 

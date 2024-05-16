@@ -1,6 +1,6 @@
 ## **Клирик**
 
-#HBW #Archetypes #Religion #Mage 
+#HBW #Archetypes #Religion #Mage #Necromant 
 ### **Мотивация**
 
 #### **Честолюбие** 
