@@ -15,6 +15,7 @@
 | [[Monster of the Week]]     | Экшин-хоррор. Охотники на Сверхестественное. | #MW #Oneshot #Action #Horror    |
 | [[Monsterhearts 2e]]        | Городская подростковая мистика.              | #MH2 #Urban_fantasy #Teen_drama |
 | [[Pasion de las Pasiones]]  | Мыльная опера                                | #PP #Soap_opera                 |
+| [[Public Access]]           | Хоррор, детектив.                            | #PA #Horror #Detective          |
 | [[Sagas of the Icelanders]] | Историческое, быт                            | #SOI #Historical                |
 | [[SCUP]]                    | Средневековое фэнтези.                       | #SCUP #Fantasy                  |
 | [[Seven ronins]]            | Роад-муви, средневековая Япония.             | #7R #Anime #Road_movie          |
