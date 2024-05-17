@@ -1,4 +1,4 @@
-#EU3 #Moves #Situation #Heal #Staff #Bonds  #Money
+#EU3 #Moves #Situation #Heal #Stuff #Bonds  #Money
 
 ### Проводишь время
 
