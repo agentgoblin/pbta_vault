@@ -2,10 +2,10 @@
 
 Прочитать перед использованием: [[Read me]]
 
-**PbtA-like игры:**
+**PbtA-подобные игры:**
 [[GAMES]]
 
 **Ссылки на автора:**
-https://vk.com/cyberblask - паблик в VK.
-https://boosty.to/humanity_zero - место для донатов.
-https://t.me/humanity_zero - телеграмм и все общение.
+https://vk.com/cyberblask — сообщество Вконтакте.
+https://boosty.to/humanity_zero — для пожертвований.
+https://t.me/humanity_zero — канал для общения в Телеграме.
