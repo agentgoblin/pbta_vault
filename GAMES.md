@@ -3,14 +3,14 @@
 # PbtA-подобные игры
 
 | Название                    | Жанр                                         | Теги                              |
-| --------------------------- | -------------------------------------------- | --------------------------------- |
+| --------------------------- | -------------------------------------------- |-----------------------------------|
 | [[Apocalypse World 1e]]     | Постапокалипсис.                             | #AW1 #Post_apocalypse             |
 | [[Apocalypse World 2e]]     | Постапокалипсис.                             | #AW2 #Post_apocalypse             |
 | [[Cartel]]                  | Криминал, современность.                     | #CA #Criminal                     |
 | Dungeon World               | Классическое фэнтези.                        | #DW #Fantasy                      |
 | [[Homebrew World]]          | Классическое фэнтези.                        | #HBW #Fantasy                     |
 | [[Horror Movie World]]      | Хоррор, киносимулятор                        | #HMW #Oneshot #Horror #Filmmaking |
-| [[Humanity Zero]]           | Киберпанк, научная фантастика.               | #H0 #Cyberpunk #Sci_fi            |
+| [[Humanity Zero]]           | Киберпанк, научная фантастика.               | #H0 #Cyberpunk #Sci-fi            |
 | [[Masks]]                   | Супергероика.                                | #MA #Superheroes #Teen_drama      |
 | [[Monster of the Week]]     | Экшн-хоррор, охотники на сверхъестественное. | #MW #Oneshot #Action #Horror      |
 | [[Monsterhearts 2e]]        | Городская подростковая мистика.              | #MH2 #Urban_fantasy #Teen_drama   |
