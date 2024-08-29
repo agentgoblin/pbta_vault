@@ -1,6 +1,6 @@
 ### **Шепот**
 
-#SCUP #Archetypes #Manipulator #Spy #Scamer
+#SCUP #Archetypes #Manipulator #Spy #Scammer
 ### **Страсть**
 
 Выберите одно из списка в качестве своей навязчивой страсти, которую вы желаете всем своим сердцем, разумом и душой: 

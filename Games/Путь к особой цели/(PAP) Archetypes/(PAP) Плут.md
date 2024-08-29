@@ -1,4 +1,4 @@
-#PAP  #Archetypes #Thief #Asasin #Lucky #Scamer 
+#PAP  #Archetypes #Thief #Asasin #Lucky #Scammer 
 
 ## Плут
 
