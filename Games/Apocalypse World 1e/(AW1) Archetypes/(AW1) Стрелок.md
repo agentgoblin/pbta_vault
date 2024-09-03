@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Figher 
+#AW1 #Archetypes #Fighter 
 
 ## Стрелок
 

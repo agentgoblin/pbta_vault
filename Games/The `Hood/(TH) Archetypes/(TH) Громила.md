@@ -1,4 +1,4 @@
-#TH #Archetypes #Figher 
+#TH #Archetypes #Fighter 
 
 ## Громила
 ***не задавай вопросов***

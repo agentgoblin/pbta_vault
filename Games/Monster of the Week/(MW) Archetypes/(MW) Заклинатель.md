@@ -1,4 +1,4 @@
-#MW #Archetypes #Mage #Figher 
+#MW #Archetypes #Mage #Fighter 
 
 ## Заклинатель
 *Туши пожар магией огня.*

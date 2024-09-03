@@ -1,6 +1,6 @@
 ## **Ведьмак**
 
-#HBW #Archetypes #Figher #Supernatural 
+#HBW #Archetypes #Fighter #Supernatural 
 ### **Мотивация**
 
 #### **Кодекс** 

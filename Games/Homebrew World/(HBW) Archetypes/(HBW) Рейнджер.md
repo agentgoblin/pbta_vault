@@ -1,6 +1,6 @@
 ## **Рейнджер**
 
-#HBW #Archetypes #Wilderlander #Figher #Familiar 
+#HBW #Archetypes #Wilderlander #Fighter #Familiar 
 ### **Мотивация**
 
 #### **Милосердие** 

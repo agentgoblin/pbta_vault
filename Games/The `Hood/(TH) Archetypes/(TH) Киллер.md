@@ -1,4 +1,4 @@
-#TH #Archetypes #Asasin #Figher 
+#TH #Archetypes #Asasin #Fighter 
 
 ## Киллер
 ***убийство сходит с рук***

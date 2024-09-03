@@ -1,4 +1,4 @@
-#MW #Archetypes #Healer #Figher 
+#MW #Archetypes #Healer #Fighter 
 
 ## Посланец небес
 *Я — это Свет, и я — это Меч. 

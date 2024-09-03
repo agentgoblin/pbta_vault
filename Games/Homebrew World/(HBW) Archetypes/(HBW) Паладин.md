@@ -1,6 +1,6 @@
 ## **Паладин**
 
-#HBW #Archetypes #Figher #Man-of-Honor
+#HBW #Archetypes #Fighter #Man-of-Honor
 ### **Мотивация**
 
 #### **Храбрость** 

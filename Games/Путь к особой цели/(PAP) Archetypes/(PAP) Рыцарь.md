@@ -1,4 +1,4 @@
-#PAP  #Archetypes #Figher #Man-of-Honor #Familiar #Wealthy 
+#PAP  #Archetypes #Fighter #Man-of-Honor #Familiar #Wealthy 
 
 ## Рыцарь
 

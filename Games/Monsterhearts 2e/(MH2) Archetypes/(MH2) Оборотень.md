@@ -1,4 +1,4 @@
-#MH2 #Archetypes #Supernatural #Shapeshifter #Figher #Beast 
+#MH2 #Archetypes #Supernatural #Shapeshifter #Fighter #Beast 
 ## **Оборотень**
 
 ### **Преамбула**

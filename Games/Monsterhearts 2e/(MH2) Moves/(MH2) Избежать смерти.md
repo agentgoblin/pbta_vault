@@ -1,4 +1,4 @@
-#MH2 #Basic #Wound 
+#MH2 #Basic #Wound #Death 
 
 ### **Избежать смерти** 
 

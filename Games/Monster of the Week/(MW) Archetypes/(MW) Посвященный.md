@@ -1,4 +1,4 @@
-#MW #Archetypes #Religion #Ganger #Oracle #Familiar #Figher 
+#MW #Archetypes #Religion #Ganger #Oracle #Familiar #Fighter 
 
 ## Посвященный
 *С самого начала истории мы остаёмся оплотом против Тьмы. Мы знаем Зло этого мира и противостоим ему, так что человечеству не нужно бояться его. Мы — Пламя, которое стирает Тени.*
