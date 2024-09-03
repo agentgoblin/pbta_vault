@@ -15,7 +15,7 @@
 | [[Masks]]                   | Супергероика.                                | #MA #Superheroes #Teen_drama                      |
 | [[Monster of the Week]]     | Экшн-хоррор, охотники на сверхъестественное. | #MW #Oneshot #Action #Horror                      |
 | [[Monsterhearts 2e]]        | Городская подростковая мистика.              | #MH2 #Urban_fantasy #Teen_drama                   |
-| [[Pasion de las Pasiones]]  | Мыльная опера.                               | #PP #Soap_opera #Filmmaking                       |
+| [[Pasion de las Pasiones]]  | Мыльная опера.                               | #PP #Soap_opera #Filmmaking #Melodrama            |
 | [[Pigsmoke]]                | Магический университет.                      | #PIG #Urban_fantasy #University #Burocracy #Magic |
 | [[Public Access]]           | Хоррор, детектив.                            | #PA #Cordova #Horror #Detective                   |
 | [[Sagas of the Icelanders]] | Историческая, быт.                           | #SOI #Historical                                  |
@@ -26,6 +26,7 @@
 | [[The `Hood]]               | Криминал, современность.                     | #TH #Criminal                                     |
 | [[Urban Shadows 1e]]        | Городское фэнтези.                           | #US1 #Urban_fantasy                               |
 | [[Грань Вселенной 3e]]      | Космоопера.                                  | #EU3 #Sci-fi                                      |
+| [[Поцелуй Вампира]]         | Пародия на мелодрамы о вампирах.             | #VK #Filmmaking #Melodrama                        |
 | [[Путь к особой цели]]      | Классическое фэнтези.                        | #PAP #Fantasy                                     |
 
 ## Смотрите также
