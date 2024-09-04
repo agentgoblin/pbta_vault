@@ -21,5 +21,8 @@
 
 [[Списки Хаков]]
 
+#### Видео
+[PbtA движок от Крайка часть 1](https://www.youtube.com/watch?v=iatBdS12W5M) [часть2](https://www.youtube.com/watch?v=_vSomDtgchg)
+
 
 
