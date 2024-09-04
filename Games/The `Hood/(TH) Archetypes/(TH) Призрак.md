@@ -1,4 +1,4 @@
-#TH #Archetypes #Mimic #Scamer #Thief 
+#TH #Archetypes #Mimic #Scammer #Thief 
 
 ## Призрак
 ***увидеть невидимое***

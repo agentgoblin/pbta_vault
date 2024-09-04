@@ -1,4 +1,4 @@
-#MW #Archetypes #Supernatural #Beast #Figher #Shapeshifter #Pariah 
+#MW #Archetypes #Supernatural #Beast #Fighter #Shapeshifter #Pariah 
 
 ## Чудовище
 *Я чувствую голод и жажду разрушения. Но я борюсь и не поддамся. Я больше не человек, но я должен защищать тех, кто не потерял свою человечность. Так я убеждаю себя, что я не такой, как другие монстры. Иногда я даже верю в это.*

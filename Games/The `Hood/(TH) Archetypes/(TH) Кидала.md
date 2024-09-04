@@ -1,4 +1,4 @@
-#TH #Archetypes #Scamer 
+#TH #Archetypes #Scammer 
 
 ## Кидала
 ***стал бы я тебе врать?***

@@ -1,4 +1,4 @@
-#PAP  #Archetypes #Figher 
+#PAP  #Archetypes #Fighter 
 
 ## Воин
 

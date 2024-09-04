@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Figher #Sexy 
+#AW1 #Archetypes #Fighter #Sexy 
 
 ## Чертовка
 

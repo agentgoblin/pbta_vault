@@ -1,4 +1,4 @@
-#PP #Archetypes #Figher 
+#PP #Archetypes #Fighter 
 
 ## Рыцарь
 **El Caballero**

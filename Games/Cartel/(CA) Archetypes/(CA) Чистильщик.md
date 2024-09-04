@@ -1,4 +1,4 @@
-#CA #Archetypes #Figher #Investigator #Spy #Asasin #Watch 
+#CA #Archetypes #Fighter #Investigator #Spy #Asasin #Watch 
 
 ## Чистильщик
 **Ls Sicaria**

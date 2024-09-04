@@ -1,6 +1,6 @@
 ## **Хранитель**
 
-#HBW #Archetypes #Figher 
+#HBW #Archetypes #Fighter 
 ### **Мотивация**
 
 #### **Господство** 

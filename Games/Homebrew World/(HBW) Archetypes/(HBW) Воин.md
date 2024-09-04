@@ -1,6 +1,6 @@
 ## **Воин**
 
-#HBW #Archetypes #Figher 
+#HBW #Archetypes #Fighter 
 ### **Мотивация**
 
 #### **Вызов** 

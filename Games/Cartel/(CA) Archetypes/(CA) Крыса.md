@@ -1,4 +1,4 @@
-#CA #Archetypes #Scamer #Fixer #Sexy 
+#CA #Archetypes #Scammer #Fixer #Sexy 
 
 ## Крыса
 **La Rata**

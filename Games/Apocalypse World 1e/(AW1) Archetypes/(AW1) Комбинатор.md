@@ -1,4 +1,4 @@
-#AW1 #Archetypes #Scamer #Fixer #Manipulator 
+#AW1 #Archetypes #Scammer #Fixer #Manipulator 
 
 ## Комбинатор
 
