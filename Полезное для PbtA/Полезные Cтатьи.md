@@ -1,6 +1,5 @@
 #GM_help #Links
 ### Статьи
-
 - [PbtA для самых маленьких](https://vk.com/@red_librarian-pbta-dlya-samyh-malenkih)
 - [Основные составляющие PbtA, а также его сильные и слабые стороны](https://vk.com/@cyberblask-osnovnye-sostavlyauschie-pbta-a-takzhe-ego-silnye-i-slabye-s)
 - [Как понять Грань Вселенной (и ПБТА)](https://vk.com/@edgeoftheverse-kak-ponyat-gran-vselennoi-i-pbta), так-же остальные [статьи сообщества Грани вселенной](https://vk.com/@edgeoftheverse) 
