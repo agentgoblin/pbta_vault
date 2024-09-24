@@ -11,6 +11,7 @@
 - [Подготовка в ПбтА](https://telegra.ph/Podgotovka-v-PbtA-04-18)
 - [Техника подготовки 7-3-1](https://vk.com/doc491920947_680820932) [(зеркало)](https://telegra.ph/Tehnika-podgotovki-7-3-1-05-13) 
 - [Техника Нарисуй Сцену](https://vk.com/doc491920947_680820931)
+- [«One shot — one kill» или как делать ваншоты.]()
 
 #### Про ходы
 - [Как сделать ходы повествовательными?](https://vk.com/@-184600062-kak-sdelat-hody-povestvovatelnymi) из сообщества издательства [@cinegames](https://vk.com/@cinegames)
