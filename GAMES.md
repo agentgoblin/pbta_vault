@@ -8,7 +8,7 @@
 | [[Apocalypse World 2e]]     | Постапокалипсис.                             | #AW2 #Post_apocalypse                             |
 | [[Brindlewood Bay]]         | Детектив, мистика                            | #BB #Cordova #Detective #Mistic                   |
 | [[Cartel]]                  | Криминал, современность.                     | #CA #Criminal                                     |
-| Dungeon World               | Классическое фэнтези.                        | #DW #Fantasy                                      |
+| [[Hearts of Wulin]]         | У-ся мелодрама.                              | #HOW #Anime #Melodrama                            |
 | [[Homebrew World]]          | Классическое фэнтези.                        | #HBW #Fantasy                                     |
 | [[Horror Movie World]]      | Хоррор, киносимулятор                        | #HMW #Oneshot #Horror #Filmmaking                 |
 | [[Humanity Zero]]           | Киберпанк, научная фантастика.               | #H0 #Cyberpunk #Sci-fi                            |

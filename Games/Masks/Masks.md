@@ -1,6 +1,9 @@
-## **Что это такое?**
-
 #MA #Preface #Games #Superheroes #Teen_drama
+
+## О чем
+Подростковая супергероика
+
+## Описание
 
 **Masks: A New Generation**
 
