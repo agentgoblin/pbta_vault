@@ -1,4 +1,4 @@
-#BH  #Games #Preface #Comedy #Mistic #Horror 
+#BH  #Games #Preface #Comedy #Mistic #Horror #PVP_game 
 
 ## О чем
 Черная комедия в которой вы играете прислугой в мистическом и гротескном английском поместье.

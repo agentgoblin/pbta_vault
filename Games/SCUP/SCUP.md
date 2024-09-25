@@ -1,4 +1,4 @@
-#SCUP #Games #Preface #Fantasy
+#SCUP #Games #Preface #Fantasy #PVP_game 
 ## О чем
 Темное средневековое фэнтези.
 
