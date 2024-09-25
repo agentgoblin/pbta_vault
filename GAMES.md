@@ -7,6 +7,7 @@
 | [[Apocalypse World 1e]]     | Постапокалипсис.                             | #AW1 #Post_apocalypse                             |
 | [[Apocalypse World 2e]]     | Постапокалипсис.                             | #AW2 #Post_apocalypse                             |
 | [[Bedlam Hall]]             | Черная комедия, трэшь-хоррор.                | #BH #Comedy #Mistic #Horror                       |
+| [[Bite Marks]]              |                                              | #BM                                               |
 | [[Brindlewood Bay]]         | Детектив, мистика                            | #BB #Cordova #Detective #Mistic                   |
 | [[Cartel]]                  | Криминал, современность.                     | #CA #Criminal                                     |
 | [[Hearts of Wulin]]         | У-ся мелодрама.                              | #HOW #Anime #Melodrama                            |
