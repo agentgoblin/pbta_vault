@@ -12,7 +12,7 @@
 | [[Hearts of Wulin]]                                   | У-ся мелодрама.                               | #HOW #Anime #Melodrama #PVP_game                  |
 | [[Homebrew World]]                                    | Классическое фэнтези.                         | #HBW #Fantasy                                     |
 | [[Horror Movie World]]                                | Хоррор, киносимулятор                         | #HMW #Oneshot #Horror #Filmmaking                 |
-| [[Humanity Zero]]                                     | Киберпанк, научная фантастика.                | #H0 #Cyberpunk #Sci-fi                            |
+| [[Humanity Zero]]                                     | Киберпанк, научная фантастика.                | #H0 #Cyberpunk #Sci-fi #PVP_game                  |
 | [[Masks]]                                             | Супергероика.                                 | #MA #Superheroes #Teen_drama                      |
 | [[Monster of the Week]]                               | Экшн-хоррор, охотники на сверхъестественное.  | #MW #Oneshot #Action #Horror                      |
 | [[Monsterhearts 2e]]                                  | Городская подростковая мистика.               | #MH2 #Urban_fantasy #Teen_drama #PVP_game         |
