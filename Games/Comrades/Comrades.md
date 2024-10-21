@@ -8,9 +8,9 @@
 **"Товарищи"** - вы будете  будут устраивать митинги, перевороты, скрываться от тайной полиции и сражаться с фашистскими головорезами. 
 Игра проходит в любом сеттинге, который придумают игроки — современной или исторической, реальной или воображаемой.
 
-- [Оф. сайт](https://wmakers.net/comrades)
-- [На DriveThruRpg](https://www.drivethrurpg.com/en/product/260813/Comrades-A-Revolutionary-RPG)
-- [VK переводчиков](https://vk.com/wall-78386859_4094)
+[Оф. сайт](https://wmakers.net/comrades)
+[На DriveThruRpg](https://www.drivethrurpg.com/en/product/260813/Comrades-A-Revolutionary-RPG)
+[VK переводчиков](https://vk.com/wall-78386859_4094)
 
 #todo 
 

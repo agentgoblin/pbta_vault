@@ -17,9 +17,9 @@
 
 **Перевод:** Александра "Ланс" Фиглин
 
-#todo
-
 [Страница игры](https://potatocubed.itch.io/pigsmoke)
+
+#todo
 
 [[!(PIG) Moves]]
 [[!(PIG) Archetypes]]
