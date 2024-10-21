@@ -8,6 +8,8 @@
 
 *Автор перевода **Alessio***
 
+#todo
+
 [[!(HBW) Book]]
 [[!(HBW) Archetypes]]
 [[!(HBW) Moves]]

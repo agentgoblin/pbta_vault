@@ -1,4 +1,4 @@
-#BM  #Moves #Basic #need-tag
+#BM  #Moves #Basic #Situation #Battle #Meta_currency  #Heal #Shapeshifter 
 ## Поддаться волчьей сущности  
 **Когда ты поддаёшься волку внутри себя, сделай бросок  +Дикость.**
 

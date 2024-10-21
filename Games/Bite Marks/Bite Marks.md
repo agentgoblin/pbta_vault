@@ -18,6 +18,8 @@
 
 [Сайт игры](https://blackarmada.com/product/bite-marks/)
 
+#todo
+
 [[!(BM) Moves]]
 [[!(BM) Archetypes]]
 [[!(BM) GM]]

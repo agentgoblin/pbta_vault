@@ -14,5 +14,7 @@
 
 [Сайт игры](https://monkeyfunstudios.com/products/bedlamhall/)
 
+#todo
+
 [[!(BH) Moves]]
 [[!(BH) Archetypes]]
