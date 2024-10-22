@@ -1,4 +1,4 @@
-#MH2 #Basic #Intrigue #Bonds
+#MH2 #Basic #Intrigue #Giri #Bonds 
 
 ### **Завести (Соблазнить)** 
 
