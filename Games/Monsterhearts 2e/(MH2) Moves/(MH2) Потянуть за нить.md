@@ -1,4 +1,4 @@
-#MH2 #Basic #Meta_currency #Giri #Bonds
+#MH2 #Moves #Basic #Meta_currency #Giri #Bonds
 
 ### **Потянуть за нить**
 

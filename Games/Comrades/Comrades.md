@@ -25,5 +25,5 @@
 [[!(COM) Moves]]
 [[!(COM) Archetypes]]
 [[!(COM) GM]]
-
+[[!(COM) Book]]
 

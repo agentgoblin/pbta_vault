@@ -1,4 +1,4 @@
-#MH2 #Basic #Battle 
+#MH2 #Moves #Basic #Battle 
 
 ### **Физически сорваться** 
 

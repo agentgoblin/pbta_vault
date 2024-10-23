@@ -1,4 +1,4 @@
-#MH2 #Basic #Heal #Drama 
+#MH2 #Moves #Basic #Heal #Drama 
 
 ### **Лечение** 
 
