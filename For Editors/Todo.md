@@ -1,8 +1,7 @@
-* тег #Advantage когда получаешь +1 искать с  #Moves
-
 
 Список на прасниг:
-- Сердца Улинь https://nestnest.notion.site/95fb45ee5fc74f37a594a5732e3b677c
+- Street dogs
+- Knights of the Force https://alessio29.itch.io/knights-of-the-force
 - Обитатели холмов https://tesera.ru/game/warren/
 - Вавилон но и другое интересное есть - https://galahed.itch.io/ + 72 бургера + Новостное Агентство
 - Dungeon World

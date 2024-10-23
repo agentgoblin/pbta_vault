@@ -1,3 +1,4 @@
+#H0 #Archetypes 
 Доступные архетипы быстрого старта:
 
 [[(H0) STREET SAMURAI]]
