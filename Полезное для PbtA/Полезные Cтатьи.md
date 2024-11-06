@@ -6,6 +6,7 @@
 - [Статьи сообщества @hackyou](https://vk.com/@pbtahackyou)
 - Там-же перевод статьи Винсента Бейкера "Powered by the Apocalypse": [часть 1](https://vk.com/@pbtahackyou-powered-by-the-apocalypse-chast-1) [часть 2](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-2) [часть 3](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-3) [часть 4](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-4) [часть 5](https://vk.com/@pbtahackyou-perevod-powered-by-the-apocalypse-chast-5)
 - [Статьи сообщества 2d6 стульев](https://vk.com/@stul_2d6)
+- [Создаем детектив, не зная, кто убийца](https://vk.com/@guprs_mentor-cordova) 
 
 #### Про подготовку к игре
 - [Подготовка в ПбтА](https://telegra.ph/Podgotovka-v-PbtA-04-18)
