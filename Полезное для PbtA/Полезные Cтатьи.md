@@ -19,7 +19,7 @@
 - [О ходах, хороших и разных](https://vk.com/@pbtahackyou-o-hodah-horoshih-i-raznyh) из сообщества [@hackyou](https://vk.com/@pbtahackyou)
 
 #### Обучающее видео
-- [Как готовить ПБТА-движок](https://www.youtube.com/watch?v=uQ1LSfD9170) от Крайка
+- [Как готовить ПБТА-движок](https://www.youtube.com/watch?v=uQ1LSfD9170) от Крайка 
 
 
 
