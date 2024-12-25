@@ -11,6 +11,8 @@
 [Pasión de las Pasiones](https://preview.drivethrurpg.com/en/product/409558?affiliate_id=948609)
 [Обзор от Алисы Раченко](https://rpg-news.ru/2024/04/20/pasion-de-las-pasiones-obzor-ot-alisy-rachenko/)
 
+Перевод: [Антон Боголюбов](t.me/Mimimitroll) от 12.2024
+
 
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
