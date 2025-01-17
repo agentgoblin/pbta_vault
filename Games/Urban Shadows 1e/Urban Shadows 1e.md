@@ -11,6 +11,9 @@
 Перевод взяты из раздаточных материалов "Студии 101"
 https://archive.studio101.ru/Powered_by_the_Apocalypse/
 
+- [Обзор игры](https://vk.com/@hurma_ttrpg-urban-shadows-gorodskie-teni) в группе НРИ и вся Хурма
+- [Обзор игры](https://vk.com/@-110104799-urban-shadows) от группы ELYSIUM
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 
