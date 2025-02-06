@@ -13,6 +13,7 @@
 - [Техника подготовки 7-3-1](https://vk.com/doc491920947_680820932) [(зеркало)](https://telegra.ph/Tehnika-podgotovki-7-3-1-05-13) 
 - [Техника Нарисуй Сцену](https://vk.com/doc491920947_680820931)
 - [«One shot — one kill» или как делать ваншоты](https://vk.com/@cyberblask-one-shot-one-kill-ili-kak-vodit-vanshoty)
+- [Операция «ваншот»](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-3-poleznye-sovety.html) (без привязки к пбта) в трех частях [часть 1](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-3-poleznye-sovety.html) [часть 2](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-2-struktura.html) [часть 3](https://imaginaria.ru/gmadvice/operaciya-vanshot-chast-3-poleznye-sovety.html)
 
 #### Про ходы
 - [Как сделать ходы повествовательными?](https://vk.com/@-184600062-kak-sdelat-hody-povestvovatelnymi) из сообщества издательства [@cinegames](https://vk.com/@cinegames)
