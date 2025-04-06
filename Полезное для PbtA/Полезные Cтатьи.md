@@ -21,7 +21,7 @@
 - [Изучим изучение обстановки, или физиология хода Discern realities](https://vk.com/@-214463944-izuchim-izuchenie-obstanovki-ili-fiziologiya-hoda-discern-re)  из [блога тифлинга-паладина](https://vk.com/club214463944)
 
 #### Про вопросы
-- Зачем задавать вопросы? (https://telegra.ph/Zachem-zadavat-voprosy-v-PbtA-04-06) Отрывок из книги правил Stonetop от Джереми Стрендберга
+- [Зачем задавать вопросы?](https://telegra.ph/Zachem-zadavat-voprosy-v-PbtA-04-06) Отрывок из книги правил Stonetop от Джереми Стрендберга
 - [Как формулировать вопросы?](https://telegra.ph/Kak-formulirovat-voprosy-v-PbtA-04-06) из блога Джереми Стрендберга
 
 #### Обучающее видео
