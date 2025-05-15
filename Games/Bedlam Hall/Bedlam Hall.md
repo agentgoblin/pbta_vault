@@ -14,6 +14,8 @@
 
 [Сайт игры](https://monkeyfunstudios.com/products/bedlamhall/)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v6ba6c7e30c0fe5f4e46dc497a14d12f8)
+
 #todo
 
 [[!(BH) Moves]]

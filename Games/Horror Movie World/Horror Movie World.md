@@ -21,6 +21,8 @@
 
 [Horror Movie World на Станции Ролевой](https://rpgbook.ru/HMW)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v33637a232ee8adf61b072eec1feef02a)
+
 ## Особенности гейм дизайна 
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

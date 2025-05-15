@@ -10,6 +10,8 @@
 [На раёне  - Литрес](https://www.litres.ru/book/dzheyms-allen/na-raene-18151333/chitat-onlayn/)
 Перевод буклетов взят из паблика SaF Gang Design  https://vk.com/safgang
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/vfc7d049b8aa0cc9deb866ac6447bc5ee)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

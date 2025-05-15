@@ -12,6 +12,8 @@
 [Sagas of the Icelanders - drivethrurpg](https://preview.drivethrurpg.com/en/product/254224/Sagas-of-the-Icelanders)
 [Саги об исландцах - Станция ролевочная](https://rpgbook.ru/STSI01)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v5ee3bf8637a83df0eb81a6fad58809b4)
+
 
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*

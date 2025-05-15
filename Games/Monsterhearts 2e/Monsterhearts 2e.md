@@ -23,6 +23,8 @@
 [Monsterhearts 2 - Buried Without Ceremony](https://buriedwithoutceremony.com/monsterhearts)
 *Перевод: Антон Боголюбов (t.me/Mimimitroll)*
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/va4cdc01cd9efdabbfe4679d5e4c534bd)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

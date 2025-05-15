@@ -13,6 +13,8 @@
 
 Перевод: [Антон Боголюбов](t.me/Mimimitroll) от 12.2024
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/ve1d48c94942d42cb401ccd5b724436cf)
+
 
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*

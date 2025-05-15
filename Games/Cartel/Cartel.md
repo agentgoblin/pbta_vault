@@ -11,6 +11,8 @@
 
 Перевод [Александр "Ланс" Фиглин](https://t.me/Lavncelot)  [Материалы на Бусти](https://boosty.to/lavncelot/posts/0b784477-a420-40f7-8ab4-9ebb8d89ad6e?share=post_link)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/vf0c2a2d4cd6b630ae5c2ffbf0f3e279b)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

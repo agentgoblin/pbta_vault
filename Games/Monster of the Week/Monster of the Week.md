@@ -8,6 +8,8 @@
 
 Описание взято с ["Элтизиума"](https://vk.com/elysiumrpc)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v66671c6d1dace260ed146c1d97f509ec)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 
