@@ -1,4 +1,4 @@
-#TH #Archetypes #Leader #Manipulator 
+#TH #Archetypes #Leader #Manipulator #Wiseman 
 
 ## Смотрящий
 ***лучшие люди гарнизона***

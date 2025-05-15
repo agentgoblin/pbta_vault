@@ -1,6 +1,4 @@
 
-Подумать нат тэгом архетипа "мудрец" "операющийся на знания" "старейшина"..
-
 Список на прасниг:
 - Street dogs
 - Knights of the Force https://alessio29.itch.io/knights-of-the-force

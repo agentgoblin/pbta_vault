@@ -1,4 +1,4 @@
-#VK  #Archetypes #Supernatural  #Spy #Oracle #Telepath #Demonic 
+#VK  #Archetypes #Supernatural  #Spy #Oracle #Telepath #Demonic #Wiseman 
 
 # Мудрец
 
