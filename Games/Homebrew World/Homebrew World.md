@@ -8,7 +8,7 @@
 
 *Автор перевода **Alessio***
 
-#todo
+#todo - написать про соборности игры
 
 [[!(HBW) Book]]
 [[!(HBW) Archetypes]]
