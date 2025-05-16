@@ -8,7 +8,7 @@
 
 *Автор перевода **Alessio***
 
-#todo - написать про соборности игры
+#todo - gemedesign
 
 [[!(HBW) Book]]
 [[!(HBW) Archetypes]]
