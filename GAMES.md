@@ -10,6 +10,7 @@
 | [[Brindlewood Bay]]                               | Детектив, мистика                             | #BB #Cordova #Detective #Mistic                   |
 | [[Cartel]]                                        | Криминал, современность.                      | #CA #Criminal                                     |
 | [[Comrades]]                                      | Революционеры.                                | #COM #Rebels                                      |
+| [[Dungeon World]]                                 | Героическое фэнтези. Эмулятор D&D             | #DW #Fantasy                                      |
 | [[Hearts of Wulin]]                               | У-ся мелодрама.                               | #HOW #Anime #Melodrama #PVP_game                  |
 | [[Homebrew World]]                                | Классическое фэнтези.                         | #HBW #Fantasy                                     |
 | [[Horror Movie World]]                            | Хоррор, киносимулятор                         | #HMW #Oneshot #Horror #Filmmaking                 |
