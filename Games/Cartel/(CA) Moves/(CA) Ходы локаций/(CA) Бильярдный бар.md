@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### бильярдная “BOLA NEGRA”
 *Нужна пушка? Ну, это не так просто. Это не los Estados Unidos, pendejo! Но не волнуйся, я тебя выручу; иди в Bola Negra и скажи, что ты от меня... они могут даже сделать тебе специальную скидку!*
