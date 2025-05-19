@@ -14,6 +14,8 @@
 [Оф. сайт](**https://www.gauntlet-rpg.com/brindlewood-bay.html) - не доступен без vpn
 [На DriveThruRpg](https://www.drivethrurpg.com/en/product/410316/Brindlewood-Bay-Kickstarter-Edition)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/vefc45764ae9634a706e8fd227bf4171a)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

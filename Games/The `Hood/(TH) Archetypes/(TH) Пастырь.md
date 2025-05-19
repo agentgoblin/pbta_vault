@@ -1,4 +1,4 @@
-#TH #Archetypes #Religion #Leader #Manipulator 
+#TH #Archetypes #Religion #Leader #Manipulator #Wiseman 
 
 ## Пастырь
 ***избавь нас от лукавого***

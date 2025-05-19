@@ -10,6 +10,8 @@
 [Оригинальный сайт](https://buriedwithoutceremony.com/simple-world) - 10 страничный pdf можно скачать бесплатно
 [Перевод в Имаждинарии](https://imaginaria.ru/aw/simple-world.html)
 
+[Онлайн буклет в Менторе](https://pbta.gmentor.ru/vd4408e221129416935f365b6ff879056)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 

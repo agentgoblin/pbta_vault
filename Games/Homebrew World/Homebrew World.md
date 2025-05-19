@@ -8,7 +8,7 @@
 
 *Автор перевода **Alessio***
 
-#todo
+#todo - gemedesign
 
 [[!(HBW) Book]]
 [[!(HBW) Archetypes]]

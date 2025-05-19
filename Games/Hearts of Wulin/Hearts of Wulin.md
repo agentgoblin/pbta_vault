@@ -13,6 +13,8 @@
 [Сайт](https://www.gauntlet-rpg.com/hearts-of-wulin.html) (недоступен без vpn)
 [На DriveThruRpg](https://www.drivethrurpg.com/en/product/365014/hearts-of-wulin)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v356af8722096a34642d9c6fd13d9be72)
+
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*
 - У каждого буклета есть на выбор **три роли,** которые дают различные стартовые ходы.

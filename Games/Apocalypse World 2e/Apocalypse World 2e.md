@@ -10,5 +10,7 @@
 
 - [Обзор изменений в 2й редакции от RPG Lab Gremlin](https://telegra.ph/Apocalypse-World-editions-whats-new-04-14)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/v4aa2d57adbda3ad9cabc31c1be5f4d1f)
+
 [[!(AW2) Moves]]
 [[!(AW2) Archetypes]]

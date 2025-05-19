@@ -11,6 +11,8 @@
 [На DriveThruRpg](https://www.drivethrurpg.com/en/product/429340/Public-Access)
 [Официальный перевод на Станции Ролевой](https://rpgbook.ru/public_access)
 
+[Онлайн буклеты в Менторе](https://pbta.gmentor.ru/vf39a7c594dd7c6256aa59296fbc077f9)
+
 
 ## Особенности гейм дизайна
 #Gamedesign *- Заметные отличия от Apocalypse World*

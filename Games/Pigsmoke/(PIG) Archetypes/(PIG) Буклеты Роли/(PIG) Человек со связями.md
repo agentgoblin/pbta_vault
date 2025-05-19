@@ -1,4 +1,4 @@
-#PIG  #Archetypes #Ganger #Fixer  
+#PIG  #Archetypes #Ganger #Fixer #Leader #Manipulator  
 
 ## Вопросы
 * Кто копался в ваших социальных сетях в  поисках чего-то постыдного? Что ему  удалось откопать?  
