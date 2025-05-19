@@ -1,4 +1,4 @@
-#BH  #Moves #Situation #Journey 
+#BH  #Moves #Situation #Journey #Location_move 
 
 ### Выйти из дома  
 Когда вы покидаете безопасное поместье, бросайте со  *Стойкостью.*  

@@ -1,4 +1,4 @@
-#DW #Moves #Situation #NPC  
+#DW #Moves #Situation #Companion #NPC  
 
 **Найм**
 Когда вы **хотите обзавестись наёмниками**, сделайте бросок с бонусом:
