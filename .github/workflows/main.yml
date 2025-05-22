@@ -18,4 +18,5 @@ jobs:
           script: |
             cd /var/www/use6gurps/data/www/pbta.su/vault/src/
             git pull
+            cd /var/www/use6gurps/data/www/pbta.su/vault/
             php -f /var/www/use6gurps/data/www/pbta.su/vault/generate-previews.php 
