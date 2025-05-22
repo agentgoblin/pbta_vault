@@ -1,4 +1,4 @@
-#MW #Moves #Situation #Heal 
+#MW #Moves #Situation #Heal #Death 
 
 ### Воскрешение
 

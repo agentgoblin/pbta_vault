@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### FONDA “DONA LUPE”
 *Ничто не сравнится с el sasón из Доньи Лупе. Sopes, chilaquiles, chicharrón prensado, chiles rellenos... даже самые простые блюда, такие как frijoles de olla, могут вознести вас на небеса и заставить забыть о гребанном аде повседневной жизни.*

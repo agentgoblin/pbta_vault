@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### ARENA “EL COLISEO”
 *В luchas все выплескивают эмоции! Все дерьмо и неприятности уходят из твой жизни, когда ты во всю глотку подбадриваешь своего любимого técnico или оскорбляешь самого ненавистного rudo! ¡A huevo, cabrón!*

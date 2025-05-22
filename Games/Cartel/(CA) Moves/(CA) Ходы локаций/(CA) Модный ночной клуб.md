@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### ANTRO DE MODA “AZUL”
 *Атмосфера в Azul идеально подходит, чтобы подцепить когонибудь. Но тусклый свет, алкоголь и громкая музыка могут притупить твои чувства... Утром тебя может ждать сюрприз! De noche, todos los gatos son pardos.*

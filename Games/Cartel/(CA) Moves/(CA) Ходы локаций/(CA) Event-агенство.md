@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### Вилла “LA MISION”
 *“Ничто так не сближает семью, как хорошая фиеста. В La Misión мы стремимся сделать незабываемым ваше мероприятие. Это наша миссия! Venga a quinta La Misión!”*

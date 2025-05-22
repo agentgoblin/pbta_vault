@@ -1,4 +1,4 @@
-#CA #Moves #Custom_move
+#CA #Moves #Location_move
 
 ### FUNERARIA “LOS JARDINES”
 *Смерть приходит за каждым. Но трагедия la muerte только для тех, кто выжил. Вот почему мы встречаем смерть с фиестой, текилой и мариачи!*
